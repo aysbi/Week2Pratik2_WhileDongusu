@@ -1,4 +1,4 @@
-## For Döngüsü Konsol Uygulaması
+## While Döngüsü Konsol Uygulaması
 
 # Genel Özellikler
 Bu proje, C# dilinde while döngüsü kullanılarak yazılmış bir örnek uygulamadır. Proje, bir dizi işlevi gerçekleştirmek üzere döngü yapılarını gösterir ve Visual Studio 17 ile oluşturulmuştur.
